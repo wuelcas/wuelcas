@@ -36,15 +36,16 @@
   <img src="https://raw.githubusercontent.com/wuelcas/wuelcas/refs/heads/main/icons/aws.svg" height="40" alt="amazonwebservices" />
   <img src="https://raw.githubusercontent.com/wuelcas/wuelcas/refs/heads/main/icons/git.svg" height="40" alt="git" />
   <img src="https://raw.githubusercontent.com/wuelcas/wuelcas/refs/heads/main/icons/mongo.svg" height="40" alt="mongodb" />
+</p>
 <h3 align="left">Languages and tools I use:</h3>
+<p align="left">
     <img src="https://raw.githubusercontent.com/wuelcas/wuelcas/refs/heads/main/icons/grafana.svg" height="40" alt="grafana" />
     <img src="https://raw.githubusercontent.com/wuelcas/wuelcas/refs/heads/main/icons/k8s.svg" height="40" alt="kubernetes" />
     <img src="https://raw.githubusercontent.com/wuelcas/wuelcas/refs/heads/main/icons/tailwind.svg" height="40" alt="tailwindcss" />
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wuelcas/wuelcas/refs/heads/main/icons/kafka-dark.svg">
-      <img alt="apachekafka" src="https://raw.githubusercontent.com/wuelcas/wuelcas/refs/heads/main/icons/kafka-light.svg" height="40">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wuelcas/wuelcas/refs/heads/main/icons/kafka-light.svg">
+      <img alt="apachekafka" src="https://raw.githubusercontent.com/wuelcas/wuelcas/refs/heads/main/icons/kafka-dark.svg" height="40">
     </picture>
-    <img src="https://raw.githubusercontent.com/wuelcas/wuelcas/refs/heads/main/icons/kafka-dark.svg" height="40" alt="apachekafka" />
     <img src="https://raw.githubusercontent.com/wuelcas/wuelcas/refs/heads/main/icons/go.svg" height="40" alt="go" />
     <img src="https://raw.githubusercontent.com/wuelcas/wuelcas/refs/heads/main/icons/swift.svg" height="40" alt="swift" />
 </p>
