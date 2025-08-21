@@ -23,26 +23,30 @@
 
 <h3 align="left">Languages and tools I use most of the time:</h3>
 <p align="left">
-  <img src="./icons/node.svg" height="40" alt="node" />
-  <i style="font-size: 40px" class="devicon-react-original-wordmark colored"></i>
-  <i style="font-size: 40px" class="devicon-typescript-plain colored"></i>
-  <i style="font-size: 40px" class="devicon-javascript-plain colored"></i>
-  <i style="font-size: 40px" class="devicon-jest-plain colored"></i>
-  <i style="font-size: 40px" class="devicon-vitest-plain colored"></i>
-  <i style="font-size: 40px" class="devicon-postgresql-plain-wordmark colored"></i>
-  <i style="font-size: 40px" class="devicon-html5-plain-wordmark colored"></i>
-  <i style="font-size: 40px" class="devicon-css3-plain-wordmark colored"></i>
-  <i style="font-size: 40px" class="devicon-docker-plain-wordmark colored"></i>
-  <i style="font-size: 40px" class="devicon-amazonwebservices-plain-wordmark colored"></i>
-  <i style="font-size: 40px" class="devicon-git-plain colored"></i>
-  <i style="font-size: 40px" class="devicon-mongodb-plain-wordmark colored"></i>
+  <img src="https://raw.githubusercontent.com/wuelcas/wuelcas/refs/heads/main/icons/node.svg" height="40" alt="node" />
+  <img src="https://raw.githubusercontent.com/wuelcas/wuelcas/refs/heads/main/icons/react.svg" height="40" alt="react" />
+  <img src="https://raw.githubusercontent.com/wuelcas/wuelcas/refs/heads/main/icons/ts.svg" height="40" alt="typescript" />
+  <img src="https://raw.githubusercontent.com/wuelcas/wuelcas/refs/heads/main/icons/js.svg" height="40" alt="javascript" />
+  <img src="https://raw.githubusercontent.com/wuelcas/wuelcas/refs/heads/main/icons/jest.svg" height="40" alt="jest" />
+  <img src="https://raw.githubusercontent.com/wuelcas/wuelcas/refs/heads/main/icons/vitest.svg" height="40" alt="vitest" />
+  <img src="https://raw.githubusercontent.com/wuelcas/wuelcas/refs/heads/main/icons/pg.svg" height="40" alt="postgresql" />
+  <img src="https://raw.githubusercontent.com/wuelcas/wuelcas/refs/heads/main/icons/html.svg" height="40" alt="html5" />
+  <img src="https://raw.githubusercontent.com/wuelcas/wuelcas/refs/heads/main/icons/css.svg" height="40" alt="css3" />
+  <img src="https://raw.githubusercontent.com/wuelcas/wuelcas/refs/heads/main/icons/docker.svg" height="40" alt="docker" />
+  <img src="https://raw.githubusercontent.com/wuelcas/wuelcas/refs/heads/main/icons/aws.svg" height="40" alt="amazonwebservices" />
+  <img src="https://raw.githubusercontent.com/wuelcas/wuelcas/refs/heads/main/icons/git.svg" height="40" alt="git" />
+  <img src="https://raw.githubusercontent.com/wuelcas/wuelcas/refs/heads/main/icons/mongo.svg" height="40" alt="mongodb" />
 <h3 align="left">Languages and tools I use:</h3>
-    <i style="font-size: 40px" class="devicon-grafana-plain-wordmark colored"></i>
-    <i style="font-size: 40px" class="devicon-kubernetes-plain-wordmark colored"></i>
-    <i style="font-size: 40px" class="devicon-tailwindcss-original colored"></i>
-    <i style="font-size: 40px" class="devicon-apachekafka-original-wordmark"></i>
-    <i style="font-size: 40px" class="devicon-go-original-wordmark colored"></i>
-    <i style="font-size: 40px" class="devicon-swift-plain colored"></i>
+    <img src="https://raw.githubusercontent.com/wuelcas/wuelcas/refs/heads/main/icons/grafana.svg" height="40" alt="grafana" />
+    <img src="https://raw.githubusercontent.com/wuelcas/wuelcas/refs/heads/main/icons/k8s.svg" height="40" alt="kubernetes" />
+    <img src="https://raw.githubusercontent.com/wuelcas/wuelcas/refs/heads/main/icons/tailwind.svg" height="40" alt="tailwindcss" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wuelcas/wuelcas/refs/heads/main/icons/kafka-dark.svg">
+      <img alt="apachekafka" src="https://raw.githubusercontent.com/wuelcas/wuelcas/refs/heads/main/icons/kafka-light.svg" height="40">
+    </picture>
+    <img src="https://raw.githubusercontent.com/wuelcas/wuelcas/refs/heads/main/icons/kafka-dark.svg" height="40" alt="apachekafka" />
+    <img src="https://raw.githubusercontent.com/wuelcas/wuelcas/refs/heads/main/icons/go.svg" height="40" alt="go" />
+    <img src="https://raw.githubusercontent.com/wuelcas/wuelcas/refs/heads/main/icons/swift.svg" height="40" alt="swift" />
 </p>
 
 ###
