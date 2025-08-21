@@ -23,7 +23,7 @@
 
 <h3 align="left">Languages and tools I use most of the time:</h3>
 <p align="left">
-  <i style="font-size: 40px" class="devicon-nodejs-plain-wordmark colored"></i>
+  <img src="/icons/node.svg" height="40" />
   <i style="font-size: 40px" class="devicon-react-original-wordmark colored"></i>
   <i style="font-size: 40px" class="devicon-typescript-plain colored"></i>
   <i style="font-size: 40px" class="devicon-javascript-plain colored"></i>
